@@ -6,7 +6,7 @@ SportsPersonImageClassifier is a machine learning project that can identify and 
 ## Installation
 ### 1. Clone the repository:
 ```
-git clone https://github.com/Priyanshu112004/SportsPersonImageClassifier.git
+git clone https://github.com/Priyanshu0kaushik/SportsPersonImageClassifier.git
 ```
 ### 2. Navigate to the project directory:
 ```
